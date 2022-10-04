@@ -2,7 +2,9 @@
 
 Pléiade est un bureau virtuel développé pour les besoins des agents et des élus des collectivités territoriales.
 
-TODO : screen du bureau
+
+https://user-images.githubusercontent.com/33468314/193852073-3dc6c105-fa18-478f-a81e-8336ceab7f8a.mp4
+
 
 ## Acteurs du projet
 
