@@ -6,7 +6,7 @@ TODO : screen du bureau
 
 ## Acteurs du projet
 
-![alt text](docs/img/banner-partners.png)
+![alt text](banner-partners.png)
 
 ## Fonctionnement
 
